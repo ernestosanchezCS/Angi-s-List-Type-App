@@ -1,0 +1,47 @@
+[
+    {
+        "fullName": "Brian Kernighan",
+        "email": "bkernighan@techfriends.dev",
+        "password": "password01"
+    },
+    {
+        "fullName": "Max Kanat-Alexander",
+        "email": "mkanatalexander@techfriends.dev",
+        "password": "password01"
+    },
+    {
+        "fullName": "Kent Beck",
+        "email": "kbeck@techfriends.dev",
+        "password": "password01"
+    },
+    {
+        "fullName": "Edward V. Berard",
+        "email": "evberard@techfriends.dev",
+        "password": "password01"
+    },
+    {
+        "fullName": "Alan Kay",
+        "email": "akay@techfriends.dev",
+        "password": "password01"
+    },
+    {
+        "fullName": "Lernantino Space",
+        "email": "lernantino@techfriends.dev",
+        "password": "password01"
+    },
+    {
+        "fullName": "David Thomas",
+        "email": "dthomas@techfriends.dev",
+        "password": "password08"
+    },
+    {
+        "fullName": "Donald Knuth",
+        "email": "dknuth@techfriends.dev",
+        "password": "password09"
+    },
+    {
+        "fullName": "Thomas Apple",
+        "email": "thomasapple@techfriends.dev",
+        "password": "password01"
+    }
+]

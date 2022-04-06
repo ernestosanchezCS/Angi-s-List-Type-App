@@ -1,0 +1,269 @@
+[
+    {
+        "name": "Grass Master",
+        "description": "Count on us for great green grass. Hundreds of satisfied customers!",
+        "owner": "Brian Kernighan",
+        "category": "Landscaping",
+        "experience": [
+            {
+                "workType": "Completed an important project",
+                "workDescription": "Worked out a plan, implemented the solution."
+            },
+            {
+                "workType": "Implementing a complex system",
+                "workDescription": "Customer had a unique issue, after some deliberation we figured out and implemented a solution."
+            }
+        ],
+        "reviews": [
+            {
+                "reviewText": "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?",
+                "reviewAuthor": "Alan Kay",
+                "reviewScore": 5
+            },
+            {
+                "reviewText": "Some of the best programming is done on paper, really. Putting it into the computer is just a minor detail.",
+                "reviewAuthor": "Max Kanat-Alexander",
+                "reviewScore": 2
+            },
+            {
+                "reviewText": "When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.",
+                "reviewAuthor": "Kent Beck",
+                "reviewScore": 4
+            }
+        ]
+    },
+    {
+        "name": "Best Carpenter",
+        "description": "From cabinets to any custom wood work we are here to serve you!",
+        "owner": "Max Kanat-Alexander",
+
+        "category": "Carpentry",
+        "experience": [
+            {
+                "workType": "Completed an important project",
+                "workDescription": "Worked out a plan, implemented the solution."
+            },
+            {
+                "workType": "Implementing a complex system",
+                "workDescription": "Customer had a unique issue, after some deliberation we figured out and implemented a solution."
+            }
+        ],
+        "reviews": [
+            {
+                "reviewText": "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?",
+                "reviewAuthor": "Alan Kay",
+                "reviewScore": 5
+            },
+            {
+                "reviewText": "Some of the best programming is done on paper, really. Putting it into the computer is just a minor detail.",
+                "reviewAuthor": "Max Kanat-Alexander",
+                "reviewScore": 5
+            },
+            {
+                "reviewText": "When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.",
+                "reviewAuthor": "Kent Beck",
+                "reviewScore": 4
+            }
+        ]
+    },
+    {
+        "name": "One of a Kind Plumbing",
+        "description": "We strive to be the best in the business. We are always looking for new and exciting ideas to make our customers happy.",
+        "owner": "Kent Beck",
+
+        "category": "Plumbing",
+        "experience": [
+            {
+                "workType": "Completed an important project",
+                "workDescription": "Worked out a plan, implemented the solution."
+            },
+            {
+                "workType": "Implementing a complex system",
+                "workDescription": "Customer had a unique issue, after some deliberation we figured out and implemented a solution."
+            }
+        ],
+        "reviews": [
+            {
+                "reviewText": "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?",
+                "reviewAuthor": "Alan Kay",
+                "reviewScore": 4
+            },
+            {
+                "reviewText": "Some of the best programming is done on paper, really. Putting it into the computer is just a minor detail.",
+                "reviewAuthor": "Max Kanat-Alexander",
+                "reviewScore": 4
+            },
+            {
+                "reviewText": "When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.",
+                "reviewAuthor": "Kent Beck",
+                "reviewScore": 3
+            }
+        ]
+    },
+    {
+        "name": "Electrified Electricians",
+        "description": "Electrical work is our passion. We are always looking for new and exciting ideas to make our customers happy.",
+        "owner": "Edward V. Berard",
+
+        "category": "Electrical",
+        "experience": [
+            {
+                "workType": "Completed an important project",
+                "workDescription": "Worked out a plan, implemented the solution."
+            },
+            {
+                "workType": "Implementing a complex system",
+                "workDescription": "Customer had a unique issue, after some deliberation we figured out and implemented a solution."
+            }
+        ],
+        "reviews": [
+            {
+                "reviewText": "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?",
+                "reviewAuthor": "Alan Kay",
+                "reviewScore": 3
+            },
+            {
+                "reviewText": "Some of the best programming is done on paper, really. Putting it into the computer is just a minor detail.",
+                "reviewAuthor": "Max Kanat-Alexander",
+                "reviewScore": 4
+            },
+            {
+                "reviewText": "When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.",
+                "reviewAuthor": "Kent Beck",
+                "reviewScore": 5
+            }
+        ]
+    },
+    {
+        "name": "Lawn Maintenance",
+        "description": "Contact us for all your lawn needs. We are always looking for new and exciting ideas to make our customers happy.",
+        "owner": "Alan Kay",
+        "category": "Landscaping",
+        "experience": [
+            {
+                "workType": "Completed an important project",
+                "workDescription": "Worked out a plan, implemented the solution."
+            },
+            {
+                "workType": "Implementing a complex system",
+                "workDescription": "Customer had a unique issue, after some deliberation we figured out and implemented a solution."
+            }
+        ],
+        "reviews": [
+            {
+                "reviewText": "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?",
+                "reviewAuthor": "Alan Kay",
+                "reviewScore": 5
+            },
+            {
+                "reviewText": "Some of the best programming is done on paper, really. Putting it into the computer is just a minor detail.",
+                "reviewAuthor": "Max Kanat-Alexander",
+                "reviewScore": 3
+            },
+            {
+                "reviewText": "When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.",
+                "reviewAuthor": "Kent Beck",
+                "reviewScore": 2
+            }
+        ]
+    },
+    {
+        "name": "Cabinets and Wood Work",
+        "description": "Got a project in mind? We are always looking for new and exciting ideas to make our customers happy. Woodwork is our passion.",
+        "owner": "Lernantino Space",
+        "category": "Carpentry",
+        "experience": [
+            {
+                "workType": "Completed an important project",
+                "workDescription": "Worked out a plan, implemented the solution."
+            },
+            {
+                "workType": "Implementing a complex system",
+                "workDescription": "Customer had a unique issue, after some deliberation we figured out and implemented a solution."
+            }
+        ],
+        "reviews": [
+            {
+                "reviewText": "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?",
+                "reviewAuthor": "Alan Kay",
+                "reviewScore": 5
+            },
+            {
+                "reviewText": "Some of the best programming is done on paper, really. Putting it into the computer is just a minor detail.",
+                "reviewAuthor": "Max Kanat-Alexander",
+                "reviewScore": 5
+            },
+            {
+                "reviewText": "When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.",
+                "reviewAuthor": "Kent Beck",
+                "reviewScore": 5
+            }
+        ]
+    },
+    {
+        "name": "Honest Plumbers",
+        "description": "Count on us for a fair and honest work. We have been working in plumbing for over 13 years and we love to make our customers happy.",
+        "owner": "David Thomas",
+        "category": "Plumbing",
+        "experience": [
+            {
+                "workType": "Completed an important project",
+                "workDescription": "Worked out a plan, implemented the solution."
+            },
+            {
+                "workType": "Implementing a complex system",
+                "workDescription": "Customer had a unique issue, after some deliberation we figured out and implemented a solution."
+            }
+        ],
+        "reviews": [
+            {
+                "reviewText": "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?",
+                "reviewAuthor": "Alan Kay",
+                "reviewScore": 2
+            },
+            {
+                "reviewText": "Some of the best programming is done on paper, really. Putting it into the computer is just a minor detail.",
+                "reviewAuthor": "Max Kanat-Alexander",
+                "reviewScore": 2
+            },
+            {
+                "reviewText": "When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.",
+                "reviewAuthor": "Kent Beck",
+                "reviewScore": 1
+            }
+        ]
+    },
+    {
+        "name": "Power Rangers Electrical",
+        "description": "Our knowledge of electrical work is second to none. We are always looking for new and exciting ideas to make our customers happy. Try us today you will not be dissapointed.",
+        "owner": "Donald Knuth",
+        "category": "Electrical",
+        "experience": [
+            {
+                "workType": "Completed an important project",
+                "workDescription": "Worked out a plan, implemented the solution."
+            },
+            {
+                "workType": "Implementing a complex system",
+                "workDescription": "Customer had a unique issue, after some deliberation we figured out and implemented a solution."
+            }
+        ],
+        "reviews": [
+            {
+                "reviewText": "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?",
+                "reviewAuthor": "Alan Kay",
+                "reviewScore": 3
+            },
+            {
+                "reviewText": "Some of the best programming is done on paper, really. Putting it into the computer is just a minor detail.",
+                "reviewAuthor": "Max Kanat-Alexander",
+                "reviewScore": 5
+            },
+            {
+                "reviewText": "When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.",
+                "reviewAuthor": "Kent Beck",
+                "reviewScore": 5
+            }
+        ]
+    }
+]
