@@ -60,13 +60,10 @@ Feel free to submit pull request to help:
 -   Add new sections
 -   New features and functionalty
 
-This application was created by <a href="https://github.com/bdejene19" target="_blank">Bemnet Dejene</a>, <a href="https://github.com/ernestosanchezCS" target="_blank">Ernesto Sanchez</a>, and <a href="https://github.com/mathewosad" target="_blank">Mathew Osadolor</a>.
+This application was created by <a href="https://github.com/ernestosanchezCS" target="_blank">Ernesto Sanchez</a>
 
 <br>
 
 <div>
-<img align="left" height="165px" src="https://github-readme-stats.vercel.app/api?username=mathewosad&show_icons=true&theme=calm" />
-<img align="left" height="165px" src="https://github-readme-stats.vercel.app/api?username=bdejene19&show_icons=true&theme=calm" />
-<img align="left" height="165px" src="https://github-readme-stats.vercel.app/api?username=ernestosanchezCS&show_icons=true&theme=calm" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewosad&layout=compact&theme=calm" />
+
 </div>
